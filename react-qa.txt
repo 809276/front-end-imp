@@ -1,0 +1,59 @@
+1.what is react ?write the advantages & disadvantages ?
+2.what is spa ?
+3.write the difference b/w spa and mpa ?
+4.what is render in react ?
+5.**what is conditional rendering in react?
+6.explain the usage of Bable,weback ,eslint ?
+7.**write the difference between npm and npx ?
+8.write the difference between create-react-app and vite ?
+9.explain the File/folder-Structure in react
+10.explain export and import and different types of it ?
+11.***what is Jsx ? its advantages ?
+12.**what are keys in react ?
+13.***what are props ?
+14.** what is prop-drilling in react ? how to overcome it ?
+15.** what is state-lifiting in react ?
+16.**what are hooks ?
+17.** what are propTypes?
+18.what are chidrenprops in react ? explain the usage ?
+19.**what is useState in react ?
+20.explain the lifecycle-methods of a component
+21.what is re-rendering in react 
+22.what is re-coilation in react 
+23.explain the useEffect ?
+24.explain the UseContextHook in React ?
+25.Explain the Difference Between UseMemo & UseCallBack hooks ?
+26.**what is Routing in React ?
+27.explain The Difference Between ROtues and Route
+28.explain The Difference Between Navlink and Link
+29.what is BrowserRouter ?
+30 what are Custom Hooks in React ?
+31.**Explain the difference between Real-Dom and Virtual-Dom
+32.Explain the Three core Principles of Redux
+33.what is the use of Redux-thunk ?
+34.what are Reducers in redux ?
+35.what are actions in redux ?
+36.explain the creation of multiple-reducers ?
+37.what is UseSelector and UseDispatcher in react-redux
+38.what is Disptacher in redux 
+39 explain the react-redux ?
+40.what are synthaticevents in react ?
+41.explain the process of handling the forms in React ?
+42.what is useRef ? advantages?
+43.what is useReducers  hook in React ?
+44.what are Framegents ?
+45.what are Hoc(higher-order-components )
+46.what are pure-components ?
+47.what is Distructuring 
+48.what is the use Axios library in react ?
+49.what are node-Modules 
+50.*** explain the difference between package-json & pacakage-lock-json ?
+51.write the difference between dependencies and dev-dependencies ?
+52.what is use .gitignore file ?
+53.explain the rules to write the Hooks ?
+54.explain the passing of  objects in useState ?
+55.what are controlled and uncontrolled components ?
+
+
+
+
